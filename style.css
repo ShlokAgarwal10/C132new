@@ -1,0 +1,84 @@
+body{
+    background-size: cover;
+}
+.u{
+    width:100px;
+    border-radius: 20px;
+    border: solid 2px black;
+    color: white;
+}
+#a{
+background-color: tomato;
+}
+#b{
+background-color: tomato;
+}
+#c{
+background-color: tomato;
+}
+#d{
+background-color: tomato;
+}
+.u:hover{
+    transform:scale(0.95);
+    color:rgb(194, 190, 190);
+}
+#e{
+    width:200px;
+    margin-left: 10px;
+    border:solid 5px black;
+}
+#f{
+    width:200px;
+    margin-left: 310px;
+    border:solid 5px black;
+}
+#g{
+    width:200px;
+    margin-left: 610px;
+    border:solid 5px black;
+}
+#h{
+    width:200px;
+    margin-left: 910px;
+    margin-right: 0px;
+    border:solid 5px black;
+}
+.heading
+{
+font-size: 25px;
+margin-bottom: 10px;
+margin-left: 70px;
+}
+
+#status
+{
+font-size: 18px;
+margin-bottom: 40px;
+}
+.desk_home_button{
+    float:right;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+canvas{
+    box-shadow: 5px 5px 2px yellow;
+    border-radius: 15px;
+    border: solid 5px red;
+    margin-top: 70px;
+}
+.balcony_home_button{
+    float:right;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.bed_home_button{
+    float:right;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.table_home_button{
+    float:right;
+    margin-right: 10px;
+    margin-top: 10px;
+}
